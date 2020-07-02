@@ -1,0 +1,30 @@
+body, h2, div, p {margin: 0; padding: 0; font-family: 'Noto Serif KR' }
+section{margin-bottom: 500px}
+h1{font-family: 'Noto Serif KR'; font-weight: 400; font-size: 5em; margin-right: 8%; text-align: center; writing-mode: vertical-lr; margin: auto;
+margin-bottom: 60%;}
+p{line-height: 1.8;}
+.a{text-align: left; margin: auto; font-family: 'Noto Serif KR'; width: 1200px  }
+.c{margin: auto; text-align: center; width: 1300px; display: flex;}
+.d{width: 50%; text-align: center; margin: auto; line-height: 1.7; margin-bottom: 500px}
+.e{width: 50%; text-align: center; margin: auto; line-height: 1.7; margin-bottom: 500px}
+.f{width: 800px; margin: auto; text-align: left; margin-bottom: 800px; line-height: 1.8;}
+.f-1{width: 500px; margin: auto; text-align: left; margin-bottom: 800px; line-height: 1.8;}
+.f-2{width: 800px; margin: auto; text-align: left; margin-bottom: 800px; line-height: 1.8;}
+.div{width: 500px; margin: auto; text-align: center;}
+#mg2{margin: auto; padding-bottom: 450px}
+#mgb0{margin-bottom: 600px}
+#mgb{margin-bottom: 900px}
+#img{width: 500px; margin: auto; text-align: center; padding-bottom: 90px}
+#img2{width: 500px;}
+#img3{width: 800px}
+#abs1{position: absolute;  top: 10000px; right: 1000px; width: 500px}
+#abs3{position: absolute;  top: 10800px; right: 900px; width: 400px}
+#abs4{position: absolute;  top: 11300px; right: 400px; width: 400px}
+#abs5{position: absolute;  top: 10500px; right: 300px; width: 400px}
+#abs6{position: absolute;  top: 11700px; right: 1000px; width: 400px}
+#abs7{position: absolute;  top: 11800px; right: 300px; width: 400px}
+#abs8{position: absolute;  top: 12300px; right: 1080px; width: 400px; margin-bottom: 500px}
+
+#imgtop{width: 470px; padding-top: 5%}
+
+#mgbtop{position: absolute; top: 13300px}
